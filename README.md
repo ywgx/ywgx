@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👣 KNOWLEDGE ABOUT IGNORANCE
+
+[![xabcstack.com](https://github-readme-stats.vercel.app/api?username=ywgx&show_icons=true&count_private=true&theme=onedark)](https://xabcstack.com)
 
 <!--
 **ywgx/ywgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
